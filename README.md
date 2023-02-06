@@ -47,13 +47,6 @@
    <img src="https://img.shields.io/badge/-promipicode-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:promipisharp@gmail.com"/>
   </a>
 
-  <a href="">
-   <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-  </a>
-
-  <a href="">
-   <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link="/>
-  </a>
   
 </p>
 
