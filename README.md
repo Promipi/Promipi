@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/cesar-alejandro-reina-morinigo-7a2113217/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto: promipisharp@gmail.com">
+   <img src="https://img.shields.io/badge/-promipicode-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:promipisharp@gmail.com"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCbVXszCXVh6ZqNw-pNOqY9A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -40,11 +43,7 @@
 
 <p align="center">
   
-  <a href="mailto: promipisharp@gmail.com">
-   <img src="https://img.shields.io/badge/-promipicode-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:promipisharp@gmail.com"/>
-  </a>
 
-  
 </p>
 
 <h2 align="center">
