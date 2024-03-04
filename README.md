@@ -2,14 +2,11 @@
   <img src="https://i.ibb.co/swx13ZY/banner.png" width="700" height="300"/>
   
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/cesar-alejandro-reina-morinigo-7a2113217/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCbVXszCXVh6ZqNw-pNOqY9A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.reddit.com/user/Promipi">
-    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
 
@@ -18,7 +15,7 @@
 ### 🧍: About Me :
   
 <p align="center">
-  I am a programmer who is in the last year of school and I plan to study Computer Science, I like Teaching and learning new things, done!
+  I am someone who is passionate about computer science, I like to teach and learn new things done!
 </p> 
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
