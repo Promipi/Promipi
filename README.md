@@ -49,7 +49,6 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=promipi&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=promipi&hide=html,css,java,shaderlab,kotlin,hlsl&theme=dark">
 </p>
 
 <p align = "center">
